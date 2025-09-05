@@ -1,0 +1,4 @@
+firewall_name              = "fw-odaa-tm"
+firewall_policy_name       = "fwp-odaa-tm2"
+resource_group_name        = "rg-tm"
+rule_collection_group_name = "AzureArcApplicationRules"
